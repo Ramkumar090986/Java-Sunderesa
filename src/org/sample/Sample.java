@@ -4,6 +4,7 @@ public class Sample {
 	
 	public static void main(String[] args) {
 		System.out.println("Sundera Code");
+		System.out.println("RT2 code");
 	}
 
 }
